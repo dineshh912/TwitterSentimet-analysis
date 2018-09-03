@@ -1,0 +1,16 @@
+.header-title{
+	color: #000000;
+	text-align:center;
+	margin-top: 2%;
+}
+
+body{
+	overflow-x:hidden;
+}
+
+.keyword{
+	text-align:end;
+}
+.search{
+	margin-top : 5%;
+}
